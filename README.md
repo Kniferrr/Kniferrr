@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Html](https://img.shields.io/badge/-html-#ee612c)
-![Css](https://img.shields.io/badge/-css-#ee612c)
+![Html](https://img.shields.io/badge/-Html-#ee612c)
+![Css](https://img.shields.io/badge/-Css-#ee612c)
