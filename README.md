@@ -1,7 +1,7 @@
 
 ### Languages and Tools:
-![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=47C5FB)
-![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=097CDB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=097CDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
