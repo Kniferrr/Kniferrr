@@ -5,7 +5,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E5D3FF)
 
-### my telegram
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KniferGG)
 ### stas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kniferrr&show_icons=true&theme=radical)
